@@ -9,5 +9,6 @@ public class TestThrow1{
       validate(13);  
       System.out.println("rest of the code...");  
       System.out.println("rest of the code...");  
+      // add from gzpeterz2
   }  
 }  
